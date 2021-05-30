@@ -1,0 +1,4 @@
+sanic===21.3.4
+sanic-openapi===21.3.2
+ujson===4.0.2
+uvloop===0.15.2
